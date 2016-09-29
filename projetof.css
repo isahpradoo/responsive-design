@@ -1,0 +1,185 @@
+/* Isadora Prado */
+body  {
+    background-image: url("tela.jpg");
+    font-family: Calibri;
+}
+#tudo {
+    width: 1200px;
+    margin:0 auto;
+}
+header h2 { /* IMAGEM CARLOS */
+    float:right;
+    margin: 7px 5px 0px 0px;
+} 
+header h1 { /* IMAGEM LOGO */
+    float:left;
+    margin: 7px 0px 0px 5px;
+}
+nav { /* MENU */
+    clear:right;
+} nav ul li {
+    float:right;
+    display:inline;
+    padding: 12px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    
+} nav a {
+    text-decoration: none;
+    color:gray;
+} 
+nav li a:hover { /* PASSAR ENCIMA */
+    color:#fb957f;
+} 
+nav a:visited { /* VISTOU */
+    color:;
+} 
+nav a:link { 
+    color: darkgray;
+}
+hr { /* TRAÇO */
+    clear: left;
+    clear: right;
+    opacity: 0.5;
+    width: 100%;
+}
+h3 { /* TEXTO LARANJA */ 
+    margin:10px 0px 0px 0px ;
+    color:#fb957f;
+    text-align: center;
+    font-size: 65px;
+} 
+h3 p {
+    margin:0px;
+}
+spam {
+    font-family: verdana;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+article h4 p { /* TEXTO CINZA */
+    margin:0px;
+    padding-bottom: 0px;
+    text-align: center;
+    color:grey;
+    font-size: 30px;
+    font-family: arial;
+}
+section {
+    height: 420px;
+    width: 100%;
+    background-color:#fb957f; 
+    padding-top: 35px;
+    
+}
+footer p { /* CREDITOS */
+    margin: 20px 0px 20px 5px;
+    color:gray;
+    float:left;
+}
+footer span {
+    color:#fb957f;
+} footer img {
+    float:right;
+    margin:10px 5px 0px 0px;
+}
+#desktop {
+    height: 400px;
+    width: 25%;
+    background-color:#fb957f; 
+    margin-left: 120px;
+    margin-right:0 auto;
+    float: left;
+} #desktop p {
+    margin: 0px;
+    text-align: center;
+    color:white;
+    font-size: 30px;
+} 
+#desktop img {
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+} 
+#tablet {
+    height: 400px;
+    width: 25%;
+    background-color:#9b8bb8; 
+    margin-left: auto;
+    margin-right: 120px;
+    float:right;
+} #tablet p {
+    margin: 0px;
+    text-align: center;
+    color:white;
+    font-size: 30px;
+} #tablet img {
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+} 
+#mobile {
+    height: 400px;
+    width: 25%;
+    background-color:#fcda93;
+    margin-left: auto;
+    margin-right: auto;
+} #mobile p {
+    margin: 0px;
+    text-align: center;
+    color:white;
+    font-size: 30px;
+} #mobile img {
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+} 
+#partebranca {
+    width:100%;
+    height: 52%;
+    background-color: white;
+    margin: 8px 0px 0px 0px;
+} 
+#partebranca p {
+    color:gray;
+    font-size: 18px;
+    padding: 10px 4px 0px 4px;
+    text-align: justify;
+} 
+#leia1 { 
+    width:35%;
+    height: 15%;
+    background-color:#fb957f; 
+    color:white;
+    font-size: 17px;
+    text-align: center;
+    padding: 8px 0px 0px 0px;
+    float: right;
+    margin: 10px 10px 0px 0px;
+} 
+#leia2 { 
+    width:35%;
+    height: 15%;
+    background-color:#9b8bb8; 
+    color:white;
+    font-size: 17px;
+    padding: 8px 0px 0px 0px;
+    text-align: center;
+    float: right;
+    margin: 10px 10px 0px 0px;
+}
+#leia3 { 
+    width:35%;
+    height: 15%;
+    background-color:#fcda93; 
+    color:white;
+    font-size: 17px;
+    padding: 8px 0px 0px 0px;
+    text-align: center;
+    float: right;
+    margin: 10px 10px 0px 0px;
+}
