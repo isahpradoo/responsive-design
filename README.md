@@ -1,4 +1,7 @@
+Isadora Helena Prado
+
 # responsive-design
+
 A tutorial and materials for learning responsive design
 
 Exercício Design Responsivo
